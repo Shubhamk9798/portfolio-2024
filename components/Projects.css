@@ -13,7 +13,7 @@
   z-index: 10;
 }
 .laptop {
-  z-index: 100;
+  z-index: 10;
   position: absolute;
 }
 .rfm-marquee-container {
@@ -59,7 +59,7 @@
 .laptop2 {
   margin-left: 700px;
 
-  z-index: 100;
+  z-index: 20;
   position: absolute;
 }
 .main-card-project2 {
