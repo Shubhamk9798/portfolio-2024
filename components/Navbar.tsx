@@ -71,7 +71,7 @@ export default function Navbar(): JSX.Element {
         className={`sticky top-0 z-50 w-screen bg-white md:relative safe-layout`}
       >
         {/* <Banner /> */}
-        <div className="flex flex-row items-center justify-between py-6 border-b-2 border-b-gray safe-x-padding">
+        <div className="flex flex-row items-center justify-between py-6 border-b-2 border-b-gray safe-x-padding z-150">
           <Link className="z-50" href="/" onClick={closeMenu} prefetch={false}>
             <div className="w-[62px] h-[70px] lg:w-[72px] lg:h-[80px]">
               <BrandIcon />
