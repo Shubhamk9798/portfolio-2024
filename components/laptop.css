@@ -1,0 +1,18 @@
+.laptop {
+  width: 800px;
+  position: relative;
+  z-index: 10;
+}
+.bgl {
+  width: 250px;
+  height: 100px;
+
+  margin-top: 20px;
+  margin-left: 70px;
+
+  background-color: antiquewhite;
+}
+
+.image-container {
+  width: 1200px;
+}
