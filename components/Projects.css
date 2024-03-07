@@ -112,7 +112,7 @@
   margin: 30px;
 }
 
-@media screen and (max-width: 580px) {
+@media screen and (max-width: 580px ) {
   .main-card-project2 {
     margin-top: 300px;
     display: block;
@@ -160,39 +160,3 @@
   border-radius: 25px;
 }
 
-@media screen and (max-width: 1080px) {
-  .main-card-project2 {
-    margin-top: 200px;
-    display: block;
-  }
-  .main-card-project3 {
-    margin-top: 200px;
-    display: block;
-  }
-  .main-container {
-    padding-top: 20px;
-    width: 600px;
-    margin: 10px auto;
-    height: 400px;
-    overflow: hidden;
-    background-color: beige;
-  }
-  .rfm-marquee-container2 {
-    background-color: aqua;
-    position: relative;
-    width: 270px;
-    background-color: aliceblue;
-  }
-  .Image-project {
-    width: 650px;
-    height: 400px;
-    overflow: hidden;
-    z-index: 10;
-  }
-  .heading {
-    font-size: 38px;
-    font-weight: 700;
-    text-align: center;
-    margin-top: 100px;
-  }
-}
