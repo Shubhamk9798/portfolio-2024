@@ -147,13 +147,15 @@ export default function SectionLetsConnect() {
               initial={{ y: 50, opacity: 0 }}
               animate={inView ? { y: 0, opacity: 1 } : {}}
               transition={{ duration: 0.5, delay: 0.4 }}
-              className="z-[1] hover:cursor-pointer w-[100px] h-[100px]"
-              src={assets.home.letsConnect.linkedin}
+              className="z-[1] hover:cursor-pointer w-[130px] h-[130px]"
+              src={image}
               alt=""
               width={100}
               height={100}
               tabIndex={0}
-              onClick={() => window.open("/", "_blank")}
+              onClick={() =>
+                window.open("https://twitter.com/shubham68376369", "_blank")
+              }
             />
             <AnimatedImage
               initial={{ y: -50, opacity: 0 }}
@@ -166,7 +168,7 @@ export default function SectionLetsConnect() {
               height={100}
               tabIndex={0}
               onClick={() =>
-                window.open("https://dribbble.com/deri-kurniawan", "_blank")
+                window.open("https://dribbble.com/shubham9798", "_blank")
               }
             />
             <AnimatedImage
@@ -180,7 +182,7 @@ export default function SectionLetsConnect() {
               height={100}
               tabIndex={0}
               onClick={() =>
-                window.open("mailto:deri.netuchi@gmail.com", "_self")
+                window.open("mailto:ashubhamk1997@gmail.com@gmail.com", "_self")
               }
             />
             <AnimatedImage
@@ -194,7 +196,10 @@ export default function SectionLetsConnect() {
               height={100}
               tabIndex={0}
               onClick={() =>
-                window.open("https://instagram.com/deri561", "_blank")
+                window.open(
+                  "https://www.instagram.com/shubhamcd2020/",
+                  "_blank"
+                )
               }
             />
             <AnimatedImage
@@ -208,7 +213,7 @@ export default function SectionLetsConnect() {
               height={100}
               tabIndex={0}
               onClick={() =>
-                window.open("https://github.com/deri-kurniawan", "_blank")
+                window.open("https://github.com/Shubhamk9798", "_blank")
               }
             />
           </div>
@@ -217,3 +222,4 @@ export default function SectionLetsConnect() {
     </section>
   );
 }
+
