@@ -95,7 +95,7 @@ export default function Navbar(): JSX.Element {
             </ul>
             <a
               className="px-6 py-2 text-white gradient-btn rounded-xl"
-              href="https://media.graphassets.com/i9beq5IPR9efxbVQhyj3?_gl=1*1ycdtrh*_ga*OTQxNzY3NjgwLjE3MDczODk4NzY.*_ga_G6FYGSYGZ4*MTcwOTgzODc0My4zNi4xLjE3MDk4MzkxMjQuMTguMC4w"
+              href="https://media.graphassets.com/BY5IhAx9RgmIdogJ9deu?_gl=1*14nxlbx*_ga*OTQxNzY3NjgwLjE3MDczODk4NzY.*_ga_G6FYGSYGZ4*MTcwOTg3NTY3NS4zNy4xLjE3MDk4NzY0NjcuNDUuMC4w"
               download="Shubham Choudhari Resume"
             >
               Resume
@@ -162,7 +162,7 @@ export default function Navbar(): JSX.Element {
             ))}
             <li className="flex text-white rounded-lg gradient-bg">
               <a
-                href="https://media.graphassets.com/BY5IhAx9RgmIdogJ9deu?_gl=1*lzqkaz*_ga*OTQxNzY3NjgwLjE3MDczODk4NzY.*_ga_G6FYGSYGZ4*MTcwOTg3NTY3NS4zNy4xLjE3MDk4NzU2OTQuNDEuMC4w"
+                href="https://media.graphassets.com/BY5IhAx9RgmIdogJ9deu?_gl=1*14nxlbx*_ga*OTQxNzY3NjgwLjE3MDczODk4NzY.*_ga_G6FYGSYGZ4*MTcwOTg3NTY3NS4zNy4xLjE3MDk4NzY0NjcuNDUuMC4w"
                 className="flex-1 py-4 safe-x-padding"
                 download="shubham Choudhari"
               >
